@@ -6,7 +6,7 @@ It continuously displays the current time (hours, minutes, and seconds) and upda
 
 ---
 
-## 🧩 Features
+##  Features
 ✅ Displays time in **HH:MM:SS** format  
 ✅ Updates every second automatically  
 ✅ Checks for valid time input  
@@ -71,7 +71,7 @@ int main()
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Open **Code::Blocks**, **Dev-C++**, or **Visual Studio** on Windows.  
 2. Copy and paste the code above.  
 3. Compile and run the program.  
