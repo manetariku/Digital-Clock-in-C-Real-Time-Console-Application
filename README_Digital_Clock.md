@@ -97,7 +97,7 @@ int main()
 ## 🧑‍💻 Author
 **Mane Tariku**  
 📍 Ethiopia  
-🚀 Aspiring Software Engineer | Data Analyst | Entrepreneur  
+🚀 Aspiring | Data Analyst |   
 
 ---
 
@@ -106,7 +106,7 @@ If you like this project, please **star 🌟** the repository and **follow** for
 
 ---
 
-### 🏷️ Short GitHub Description
+### 🏷️ Short Description
 > A simple real-time digital clock written in C++ using the Windows API. Displays live time updates every second in the console.
 
 ### 🔖 Suggested Tags
